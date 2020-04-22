@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: EMSApp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: 33769
+Implementation-Vendor-Id: com.ems.main
+Build-Jdk: 1.8.0_241
+Implementation-URL: http://projects.spring.io/spring-boot/EMSApp/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

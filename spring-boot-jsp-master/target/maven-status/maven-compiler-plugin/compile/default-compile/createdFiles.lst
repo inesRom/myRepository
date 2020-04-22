@@ -1,0 +1,15 @@
+com\ems\main\service\TodoService.class
+com\ems\main\dto\CarteDTO.class
+com\ems\main\EMSApplication.class
+com\ems\main\utill\el\PropertyResolverImpl.class
+com\ems\main\serviceImpl\CarteServiceImpl.class
+com\ems\main\controller\CarteController.class
+com\ems\main\controller\jsfController.class
+com\ems\main\controller\ProductController.class
+com\ems\main\repositoryImpl\tCarteRepositoryImpl.class
+com\ems\main\controller\ProductListController.class
+com\ems\main\model\Product.class
+com\ems\main\service\CarteService.class
+com\ems\main\model\Carte.class
+com\ems\main\repository\CarteRepository.class
+com\ems\main\repository\ProductRepository.class

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <product id="1" name="Chocolat" price="2"/>
+    <product id="2" name="Chien" price="2"/>
+    <product id="3" name="Framboise" price="2" />
+    <product id="4" name="Cacao" price="2"/>
+    <product id="5" name="Caramel" price="2"/>
+    <product id="6" name="Cerise" price="2"/>
+    <product id="7" name="Fraise" price="2"/>
+</dataset>
